@@ -1,0 +1,4 @@
+Grades for Kaylo
+MATH {quiz=89, exam=98, homework=76, project=98} Class grade: 90.7
+SCIENCE {quiz=98, exam=70, homework=89, project=60} Class grade: 77.85
+READING {quiz=89, exam=78, homework=98, project=89} Class grade: 87.95
